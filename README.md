@@ -4,7 +4,7 @@
 A Simple Python Program to Read your Pdf Files & Solve it Using OpenAI API Integration,
 You must Add your own OpenAI API Key.
 
-![Example](https://github.com/saharshpand3y/PdfGPT/blob/main/example/example.png)
+![Example](https://github.com/saharshpand3y/PdfGPT/blob/main/example.png)
 
 ## Run Locally
 
